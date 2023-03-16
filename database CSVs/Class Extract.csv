@@ -1,0 +1,11 @@
+ClassID,SubjectName,TeacherID,ClassYear, Form
+1,Maths,1,9,T
+2,Physics,1,8,W
+3,English,2,11,G
+4,Biology,2,8,M
+5,Biology,2,7,L
+6,Chemistry,3,10,G
+7,Computer Science,3,7,T
+8,Computer Science,3,11,M
+9,Art,4,7,L
+10,Art,4,10,W
